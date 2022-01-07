@@ -8,3 +8,4 @@
 download the source code from GitHub
 
 ## Use Docker Compose Version:   
+use [docker-wordpress-theme-setup repo](https://github.com/bigmpc/Event-Manager-Wordpress-Dev-Env)
